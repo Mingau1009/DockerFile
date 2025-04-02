@@ -23,7 +23,7 @@ docker build -t banco .
 Após a contrução você pode rodar o container com o seguinte comando:
 docker run -p 3000:3000 banco
 
-###Testando a aplicação
+## Testando a aplicação
 
 Agora, com o contêiner rodando, você pode testar a aplicação acessando a URL no seu navegador ou utilizando uma ferramenta como o Postman ou curl.
 
